@@ -1,0 +1,17 @@
+LainTalk (or laintalk) is a project aimed at providing materials for developing text-to-speech and text generation that mimics characters from the Serial Experiments Lain franchise.
+
+
+source_materials
+    game
+        -English translations found via lainTSX, (laingame.net), those being from psx.lain.pl and ain (https://ain-and-lain.tumblr.com/post/54679085486/lda-installment-three)
+    show
+        -Japanese subtitles from https://kitsunekko.net/dirlist.php-dir=subtitles%2Fjapanese%2FSerial+Experiments+Lain%2F
+        -English subtitles from opensubtitles.org by user "gearheart89" (https://www.opensubtitles.org/en/search/sublanguageid-all/iduser-1563111/a-mysqld)
+        -English subtitles from the Internet Archive's collection DVD or BluRay?
+
+Future stuff:
+	English, show - Check if gearheart89's subtitles are valid
+	Japanese, game - Translate animetranscripts.net's transcripts into proper subtitles format
+	Japanese, show - Find or make japanese subtitles for the show
+	show - Label who is speaking in the subtitles.
+	Japanese, game - are the Env and TaK files left out by animetranscripts important enough to transcribe yourself?

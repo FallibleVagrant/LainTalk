@@ -1,0 +1,2 @@
+These are the unedited files from https://animetranscripts.net/wiki/Serial_Experiments_Lain(Game), except the "Level" and "Site" headings have been removed.
+centrifuge_files.py will centrifuge them into transcripts_by_file.

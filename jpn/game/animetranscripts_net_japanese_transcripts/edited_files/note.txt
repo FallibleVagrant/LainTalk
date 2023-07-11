@@ -1,0 +1,3 @@
+transcripts_by_file contains the transcripts centrifuge-d out into individual files corresponding to each lainTSX video file.
+Also note that "Eda" and "Ekm" appear to be written-only elements of the game, and thus do not have corresponding lainTSX video files.
+"TaK" and "Env" files were not transcribed by animetranscripts.net, and so are not included here.
