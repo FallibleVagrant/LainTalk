@@ -1,9 +1,11 @@
+#!/usr/bin/env python3
+
 import requests
 import urllib.request
 import re
 
 main_url = "https://laingame.net/index.php?id="
-for i in range(1000):
+for i in range(830):
     r = requests.get(main_url + str(i))
     match_video = re.search(r"https\://.*?\.mp4", r.text)
     if match_video:
