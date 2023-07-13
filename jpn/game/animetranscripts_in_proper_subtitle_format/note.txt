@@ -1,0 +1,3 @@
+This is a conversion of the transcripts provided by animetranscripts into the same subtitle format that lainass uses.
+The idea being that the timing of the dialogue is largely the same, though problems will surely crop up if that is untrue.
+If there are problems, probably look into aegisub.

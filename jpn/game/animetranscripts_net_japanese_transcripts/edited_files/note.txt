@@ -1,3 +1,5 @@
-transcripts_by_file contains the transcripts centrifuge-d out into individual files corresponding to each lainTSX video file.
-Also note that "Eda" and "Ekm" appear to be written-only elements of the game, and thus do not have corresponding lainTSX video files.
+transcripts_by_file contains the transcripts centrifuge-d out into individual files like the laingame.net video files.
+i.e. Cou001 instead of a monolithic Cou file.
+
+Also note that "Eda" and "Ekm" appear to be written-only elements of the game, and thus do not have corresponding laingame.net video files.
 "TaK" and "Env" files were not transcribed by animetranscripts.net, and so are not included here.
