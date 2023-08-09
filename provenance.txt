@@ -1,4 +1,4 @@
-LainTalk (or laintalk) is a project aimed at providing materials for developing text-to-speech and text generation that mimics characters from the Serial Experiments Lain franchise.
+SomeLainSubs, formerly LainTalk (or laintalk), is a project aimed at providing materials for developing text-to-speech and text generation that mimics characters from the Serial Experiments Lain franchise.
 
 
 source_materials
